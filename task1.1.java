@@ -2,11 +2,6 @@
 Compilation: task.java
 Execution: task 2 3 1
 Result: -0.5
-
-
-
-
-
 *********************************/
 public class task {
     public static void main(String[] args) {
@@ -18,5 +13,3 @@ public class task {
                 
     } 
 } 
-
-
